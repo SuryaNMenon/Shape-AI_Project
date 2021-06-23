@@ -1,0 +1,7 @@
+Welcome to the Simple Weather App!
+Weather Statistics for - TRIVANDRUM || 23 Jun 2021 | 03 32 44 PM
+-------------------------------------------------------------
+Current Temperature: 29.99 degree Celcius
+Description about the weather:  few clouds
+Humidity:  84
+Wind speed:  3.6 kmph
